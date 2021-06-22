@@ -1,0 +1,25 @@
+{
+  "name": "rust_restarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rust.js",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "node-windows": "^1.0.0-beta.5",
+    "rustrcon": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorkemgun/rust_restarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorkemgun/rust_restarter/issues"
+  },
+  "homepage": "https://github.com/gorkemgun/rust_restarter#readme"
+}
